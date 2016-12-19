@@ -4,7 +4,7 @@ author: "Stephane Deboudt"
 date: "19 december 2016"
 output: 
   revealjs::revealjs_presentation:
-    theme: moon
+    theme: blood
     highlight: espresso
     center: true
     self_contained: false
