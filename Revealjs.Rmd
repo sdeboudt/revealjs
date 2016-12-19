@@ -15,6 +15,10 @@ output:
 ## Tips 'N' Tricks {data-background="prague.jpg"}
 
 - [TipsNTricks](https://sdeboudt.github.io/TipsNTricks.html)
+- [Cloning a Git Repository](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository)
+- [Recording Changes](https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository)
+- [Undoing Things](https://git-scm.com/book/en/v2/Git-Basics-Undoing-Things)
+
 
 # Importing Data into R {data-background="prague.jpg"}
 
