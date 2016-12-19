@@ -1,0 +1,23 @@
+---
+title: "Reveal Works"
+author: "Stephane Deboudt"
+date: "19 december 2016"
+output: 
+  revealjs::revealjs_presentation:
+    theme: moon
+    highlight: espresso
+    center: true
+    self_contained: false
+---
+
+# Data Manipulation in R {data-background="prague.jpg"}
+
+## Tips 'N' Tricks {data-background="prague.jpg"}
+
+- [TipsNTricks](https://sdeboudt.github.io/TipsNTricks.html)
+
+# Importing Data into R {data-background="prague.jpg"}
+
+# Manipulating Data {data-background="prague.jpg"}
+
+# Visualizing Data {data-background="prague.jpg"}
